@@ -1,0 +1,6 @@
+{
+   "functionName": "<+service.name>",
+   "role": "<+serviceVariables.role>",
+   "runtime": "<+serviceVariables.runtime>",
+   "handler": "<+serviceVariables.handler>"
+}
